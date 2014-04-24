@@ -9,7 +9,7 @@ Versions:
 - '5.1'
 - '5.5'
 Cartridge-Version: 0.2.12
-Compatible-Versions:
+Compatible-Versions:yanpzhan
 - 0.2.11
 Cartridge-Vendor: redhat
 License: GPL
@@ -62,3 +62,10 @@ Version-Overrides:
     - mysql-5.1
     - mysql
     - mysql-singleton-master
+Install-Build-Required: false
+
+Source-Url: https://github.com/yanpzhan/cartridge.git
+#Source-Url: https://raw.github.com/yanpzhan/cartridge/master/mysql.tar
+#Source-Url: https://raw.github.com/xiama/cartridge/master/mysql1123.zip
+#Source-Url: https://raw.github.com/xiama/cartridge/master/mysql11.tar.gz
+#Source-Md5: c0b7fe281fc63f847ada56f65ed86dd8
